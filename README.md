@@ -16,11 +16,11 @@ https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/scr
 
 ### Recipes by Category
 
-
+https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/Recipes%20by%20category.mp4
 
 ### Recipe Details Screen
 
-(Add Screenshot Link)
+
 
 ### Search Recipes Screen
 
