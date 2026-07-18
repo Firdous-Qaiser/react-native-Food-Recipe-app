@@ -6,13 +6,13 @@ A modern mobile application built with **React Native** and **Expo** that allows
 
 ## Screenshots
 
+### Welcome Screen
+
+https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/welcome.mp4
+
 ### Home Screen
 
-(Add Screenshot Link)
 
-### Categories Screen
-
-(Add Screenshot Link)
 
 ### Recipes by Category
 
