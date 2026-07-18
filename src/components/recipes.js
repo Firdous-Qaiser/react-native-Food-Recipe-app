@@ -16,12 +16,7 @@ export default function Recipes({meals, categories}) {
         We need to pass the Func as a prop to recipe card then,
         we will be able to play the sound on press  
   */}
-
-  {/* 
-    Issue with Masonry Layout: whenever we get all categories data from API and update 
-    the parent component the Layout just disappeared so we added the categories length 
-    condition
-  */}
+  
   return (
     <View className='mx-4 gap-3'>
         <Text style={{fontSize: hp(3)}} className='font-semibold text-neutral-600'>Recipes</Text>
