@@ -20,7 +20,7 @@ https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/scr
 
 ### Recipe Details Screen
 
-https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/Recipedetails.mp4
+https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/recipeDetails.gif
 
 ### Search Recipes Screen
 
