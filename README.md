@@ -24,7 +24,7 @@ https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/scr
 
 ### Search Recipes Screen
 
-https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/searchRecipes.mp4
+https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/searchRecipes.gif
 
 ---
 
