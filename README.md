@@ -8,7 +8,7 @@ A modern mobile application built with **React Native** and **Expo** that allows
 
 ### Welcome Screen
 
-https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/welcome.mp4
+https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/welcomeScreen.gif
 
 ### Home Screen
 
