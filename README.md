@@ -12,7 +12,7 @@ https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/scr
 
 ### Home Screen
 
-https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/Homescreen.mp4
+https://github.com/Firdous-Qaiser/react-native-Food-Recipe-app/blob/main/src/screenshots/HomeScreen.gif
 
 ### Recipes by Category
 
